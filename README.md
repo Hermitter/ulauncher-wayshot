@@ -14,7 +14,7 @@ It also includes a color picker!
 Copy this extension into the Ulauncher extensions folder.
 ```bash
 mkdir -p ~/.local/share/ulauncher/extensions
-cp -r ./wayshot ~/.local/share/ulauncher/extensions
+git clone https://github.com/Hermitter/ulauncher-wayshot ~/.local/share/ulauncher/extensions/wayshot
 ```
 
 Stop Ulauncher
