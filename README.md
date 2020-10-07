@@ -26,7 +26,3 @@ Start Ulauncher
 ```
 ulauncher
 ```
-
-# Issues
-- Notifications are sent even if the screenshot is cancelled
-- Capture Monitor doesn't always work
