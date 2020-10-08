@@ -46,7 +46,7 @@ capture = {
 
 
 def get_save_menu(capture_method):
-    # Menu to determine if screenshot is saved to file or clipboard
+    # Menu to save to file or clipboard
     menu = [
         ExtensionResultItem(
             name='Save To Clipboard',
