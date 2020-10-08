@@ -90,8 +90,8 @@ if __name__ == '__main__':
     Wayshot().run()
 
 
-# Swappy commands for future reference #
-# avoided because the final image was so smol
+### Swappy commands to potentially use in the future ###
+# Avoided because of low image quality: https://github.com/jtheoof/swappy/issues/54
 
 # *Screenshot active Monitor
 # 'grim -g "$(swaymsg -t get_outputs | jq -r \'.. | select(.active?) | .rect | "\(.x),\(.y) \(.width)x\(.height)"\' | slurp)" - | swappy -f -'
