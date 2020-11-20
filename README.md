@@ -9,7 +9,7 @@ It also includes a color picker!
 - `notify-send`: Screenshot notifications
 - [`grim`](https://github.com/emersion/grim): Wayland screenshots
 - [`slurp`](https://github.com/emersion/slurp): Region selector
-- [`ImageMagick`](https://github.com/ImageMagick/ImageMagick): Edits Images
+- [`ImageMagick`](https://github.com/ImageMagick/ImageMagick): Image processing
 
 # Installation
 Copy this extension into the Ulauncher extensions folder.
